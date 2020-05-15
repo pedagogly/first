@@ -1,2 +1,3 @@
 jupyter contrib nbextension install --user
 jupyter nbextension enable init_cell/main
+jupyter trust COVID-19-Visualization.ipynb
