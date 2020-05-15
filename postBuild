@@ -1,2 +1,2 @@
 jupyter contrib nbextension install --user
-jupyter nbextension enable --py init_cellnbextension
+jupyter nbextension enable --py init_cell
